@@ -1,3 +1,3 @@
-package notion
+package webhook
 
 const apiKey = ""

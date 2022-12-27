@@ -1,4 +1,4 @@
-package notion
+package webhook
 
 import (
 	"testing"
